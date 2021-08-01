@@ -25,3 +25,17 @@ if (btn) {
 This is a comment that can span multiple lines 
 - use comments to make your own notes!
 */
+.deckofCards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  background-color: white;
+  padding: 1% 3%;
+  color: black;
+  width: 30%;
+}
+.deckofCards .cardDIV {
+  margin-bottom: 1em;
+  background-color: white;
+  border: 1px solid black;
+}
