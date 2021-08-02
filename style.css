@@ -28,7 +28,7 @@ header nav .menu a {
   color: white;
 }
 header nav .menu a:hover {
-  color: yellow;
+  color: red;
 }
 .hero {
   text-align: center;
@@ -68,5 +68,9 @@ header nav .menu a:hover {
 }
 h1 {
   text-align: center;
-  color: black;
+  color: white;
+  background-image: url("https://i.pinimg.com/236x/c6/21/22/c62122464463d210a1864959c9b234f7.jpg")
+}
+p {
+  text-align: center;
 }
