@@ -32,7 +32,7 @@ header nav .menu a:hover {
 }
 .hero {
   text-align: center;
-  padding: 5% 0; 
+  padding: 5% 0;
   color: white;
   height: 100vh;
   background-image: url("https://i.pinimg.com/564x/44/ca/f1/44caf100ceb690968bbf6ff8ba1847b8.jpg");
@@ -52,6 +52,7 @@ header nav .menu a:hover {
 .deckofCards .cardDIV p {
   margin: 0;
   padding: 3% 5%;
+  background-image: url("https://i.pinimg.com/564x/65/ee/20/65ee2081d7bc761dbc5c800723bfc014.jpg");
 }
 .deckofCards .cardDIV img {
   width: 100%;
@@ -69,9 +70,11 @@ header nav .menu a:hover {
 h1 {
   text-align: center;
   color: white;
-  background-image: url("https://i.pinimg.com/236x/c6/21/22/c62122464463d210a1864959c9b234f7.jpg")
+  background-image: url("https://i.pinimg.com/236x/c6/21/22/c62122464463d210a1864959c9b234f7.jpg");
 }
 p {
   text-align: center;
   color: white;
-  background-image: url("https://i.pinimg.com/564x/65/ee/20/65ee2081d7bc761dbc5c800723bfc014.jpg"); }
+  margin: 0;
+  padding: 3% 5%;
+}
