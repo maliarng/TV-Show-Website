@@ -35,7 +35,7 @@ header nav .menu a:hover {
   padding: 5% 0; 
   color: white;
   height: 100vh;
-  background-image: url("https://picsum.photos/id/1004/800");
+  background-image: url("https://i.pinimg.com/564x/ec/e3/be/ece3bea7b4139615a9e9146333251fb9.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-positon: center;
@@ -65,4 +65,8 @@ header nav .menu a:hover {
 .deckofCards .cardDIV {
   width: 30%;
   margin-bottom: 1em;
+}
+h1 {
+  text-align: center;
+  color: black;
 }
