@@ -73,4 +73,8 @@ h1 {
 }
 p {
   text-align: center;
+  background-image: url("https://www.pinterest.com/pin/713116922250843489/")
+    background-repeat: no-repeat;
+  background-size: cover;
+  background-positon: center;
 }
