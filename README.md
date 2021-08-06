@@ -31,18 +31,16 @@ ___Want a minimal version of this project to build your own website? Check out [
 
 ## Git
 ```
-echo "# productive-pointed-freezer" >> README.md
+echo "# awesome-sand-quokka" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
 git branch -M main
-git remote add origin https://github.com/maliarng/productive-pointed-freezer.git
+git remote add origin https://github.com/maliarng/awesome-sand-quokka.git
 git push -u origin main
 ```
-…or push an existing repository from the command line
-
 ```
-git remote add origin https://github.com/maliarng/productive-pointed-freezer.git
+git remote add origin https://github.com/maliarng/awesome-sand-quokka.git
 git branch -M main
 git push -u origin main
 ```
